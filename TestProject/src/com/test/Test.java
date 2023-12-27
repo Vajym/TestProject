@@ -3,6 +3,7 @@ package com.test;
 public class Test {
 	
 	private String name;
-	private Double salary;
+	private Integer salary;
+	private String address;
 
 }
