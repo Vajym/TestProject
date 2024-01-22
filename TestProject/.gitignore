@@ -1,4 +1,9 @@
 /bin/
 .settings
+<<<<<<< HEAD
 .classpath
 .project
+=======
+.project
+.classpath
+>>>>>>> newFeature

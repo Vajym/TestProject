@@ -6,5 +6,6 @@ public class Test {
 	private Integer salary;
 	private String address;
 	private Integer price;
+	private String street;
 
 }
