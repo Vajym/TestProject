@@ -8,5 +8,6 @@ public class Test {
 	private String street;
 	private double coordinate1;
 	private double coordinate2;
+	private Integer price;
 
 }
