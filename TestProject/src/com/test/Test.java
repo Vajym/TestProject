@@ -6,5 +6,6 @@ public class Test {
 	private Integer salary;
 	private String address;
 	private String street;
+	private double coordinate1;
 
 }
